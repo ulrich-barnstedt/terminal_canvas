@@ -1,0 +1,22 @@
+{
+  "-q" : {
+    "name" : "quality",
+    "default" : 1,
+    "required" : true
+  },
+  "-t" : {
+    "name" : "threads",
+    "default" : 2,
+    "required" : "true"
+  },
+  "-heap" : {
+    "name" : "heapSize",
+    "default" : 1000,
+    "required" : true
+  },
+  "-nogi" : {
+    "name" : "noGui",
+    "default" : false,
+    "required" : false
+  }
+}
