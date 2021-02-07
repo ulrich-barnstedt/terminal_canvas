@@ -24,21 +24,3 @@ const fastAsFuck = require("./modules/fastAsFuckRender");
         await terminalRender.playArray(frames, args.noGui);
     }
 })();
-
-
-/*
-    /*setInterval(() => {
-        //console.log();
-        engine.requestBuffer()
-    }, 500);*/
-
-/*engine.requestBuffer();
-setTimeout(() => {
-    engine.requestBuffer();
-}, 1000)
-setTimeout(() => {
-    engine.requestBuffer();
-}, 2000)
-setTimeout(() => {
-    engine.requestBuffer();
-}, 3000)*/
